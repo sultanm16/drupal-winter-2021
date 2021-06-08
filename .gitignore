@@ -1,0 +1,5 @@
+#Ignore the following files
+#
+my-detest.sql
+my-drupal-db-backup.sql
+sites/default/settings.php
